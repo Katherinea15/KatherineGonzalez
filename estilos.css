@@ -1,0 +1,12 @@
+body {
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+} 
+h1 {
+    color: blue;
+/* Este es un comentario en css */
+p {
+    font-size: 18px;
+    color: gray;
+}
